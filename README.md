@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/CsJav/CsJav/blob/master/devcard.svg" width="400" alt="CsJav"/></a>
+<a href="https://app.daily.dev/CsJav"><img src="https://github.com/CsJav/CsJav/blob/main/devcard.svg" width="400" alt="CsJav"/></a>
 
 <!--
 **CsJav/CsJav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
