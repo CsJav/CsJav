@@ -10,15 +10,13 @@
 
 <br />
 
-<a href="https://store.steampowered.com/app/4541820/Aditore/">
-  <img src="./media/aditore-header.jpg" alt="Aditore on Steam" width="640" />
-</a>
+
 
 <a href="https://youtu.be/g6K20rxRSjk">
   <img src="./media/aditore-trailer.jpg" alt="Aditore official trailer" width="640" />
 </a>
 
-**Aditore** — Godot tactics on Steam. Grid combat, a hub, Blender into Godot.
+
 
 <br />
 
