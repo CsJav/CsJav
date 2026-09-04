@@ -19,7 +19,11 @@
 <td valign="top" width="62%">
 
 <a href="https://store.steampowered.com/app/4541820/Aditore/">
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/4541820/header.jpg" alt="Aditore on Steam" width="100%" />
+  <img src="./media/aditore-header.jpg" alt="Aditore on Steam" width="100%" />
+</a>
+
+<a href="https://youtu.be/g6K20rxRSjk">
+  <img src="./media/aditore-trailer.jpg" alt="Aditore official trailer" width="100%" />
 </a>
 
 **Aditore** is a Godot tactics game on Steam: grid combat, a hub, and an art pipeline from Blender into Godot.
