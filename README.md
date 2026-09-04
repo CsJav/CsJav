@@ -1,4 +1,4 @@
-I make games in Godot, and the TypeScript tools I use to ship them.
+I make games in Godot.
 
 <a href="https://youtu.be/g6K20rxRSjk">
   <img src="./media/aditore-trailer.jpg" alt="Aditore official trailer" width="420" />
