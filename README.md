@@ -1,23 +1,23 @@
-### Hi there 👋
+# Carlos Rios
 
-<a href="https://app.daily.dev/CsJav"><img src="https://github.com/CsJav/CsJav/blob/main/devcard.svg" width="400" alt="CsJav"/></a>
+I build games, browser tools, and apps that stay easy to change.
 
-<!--
-**CsJav/CsJav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Now
 
-DevCard: just in case it wont update inspect this ->
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/CsJav/CsJav/blob/master/devcard.svg" width="400" alt="CsJav"/></a>
+**Aditore** — a Godot tactics game on Steam.
 
-<a href="https://app.daily.dev/CsJav"><img src="https://api.daily.dev/devcards/dac044c348f64b66926495f3ab3ae14d.png?r=bw5" width="400" alt="CsJav's Dev Card"/></a>
+[Store page](https://store.steampowered.com/app/4541820/Aditore/) · [Trailer](https://youtu.be/g6K20rxRSjk)
 
-Here are some ideas to get you started:
+Also shipping: a local kanban with an agent bridge, a full-page screenshot extension, and Blender tooling. Those repos stay private.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godotengine&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
+
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/csjav)
