@@ -19,3 +19,4 @@ Check out my game on Steam: **Aditore**.
 - <img src="https://cdn.simpleicons.org/tauri/FFC131" height="16" alt="" /> Tauri
 - <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="16" alt="" /> Supabase
 - <img src="https://cdn.simpleicons.org/tanstack/FF4154" height="16" alt="" /> TanStack
+- - <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="16" alt="" /> NestJS
